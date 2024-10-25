@@ -30,7 +30,11 @@ We hope this study provides valuable insights into concurrently addressing fairn
 
 ##  🚩Main Results
 
-**DEAN enhances LLM’s awareness of fairness and privacy simultaneously without compromising general capabilities.**
+<p style="color: #0288D1; font-size: 18px; font-weight: bold;">
+    DEAN enhances LLM’s awareness of fairness and privacy simultaneously without compromising general capabilities.
+</p>
+
+<!-- DEAN enhances LLM’s awareness of fairness and privacy simultaneously without compromising general capabilities. -->
 
 <img src="./assets/table1.png" width="700" alt="Table 1">
 
@@ -41,15 +45,22 @@ We hope this study provides valuable insights into concurrently addressing fairn
 <!-- ![Table 3](assets/table3.png) -->
 
 ---
+<p style="color: #0288D1; font-size: 18px; font-weight: bold;">
+    DEAN remains robust even when only malicious fine-tuning data is available.
+</p>
 
-**DEAN remains robust even when only malicious fine-tuning data is available.**
+<!-- **DEAN remains robust even when only malicious fine-tuning data is available.** -->
 
 <img src="./assets/fig3.png" width="700" alt="Figure 3">
 <!-- ![Figure 3](assets/fig3.png) -->
 
 ---
 
-**DEAN encourages the model to produce more cautionary language related to fairness and privacy.**
+<p style="color: #0288D1; font-size: 18px; font-weight: bold;">
+    DEAN encourages the model to produce more cautionary language related to fairness and privacy.
+</p>
+
+<!-- **DEAN encourages the model to produce more cautionary language related to fairness and privacy.** -->
 
 <img src="./assets/fig5.png" width="700" alt="Figure 5">
 
