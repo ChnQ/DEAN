@@ -114,6 +114,14 @@ python main.py \
 Distributed under the Apache-2.0 License. See LICENSE for more information.
 
 
+## Acknowledgements
+Some code in this project is adapted from resources provided by the following repositories: 
+- https://github.com/boyiwei/alignment-attribution-code
+- https://github.com/OpenSafetyLab/SALAD-BENCH
+
+We greatly appreciate the contributions of the original authors.
+
+
 ## 📖BibTeX
 ```
 @article{qian2024dean,
